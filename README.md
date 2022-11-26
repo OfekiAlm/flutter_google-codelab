@@ -3,6 +3,9 @@
 My first flutter project to native development road.
 Finished successfully the google codelab part 1&2
 
+
+Note - This project was tested only in android platform, hence only this directory are shown here.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
